@@ -1,6 +1,6 @@
 ## Olá, seja bem-vindo(a) ao meu GitHub!
 
-E aí, tudo tranquilo? Meu nome é Leonardo Marinho, sou desenvolvedor e apaixanado pelo mundo tech! Atualmente estou cursando Sistemas para Internet, com foco principalmente em engenharia e análise de dados. Tenho interesse adicional por desenvolvimento backend e estou sempre buscando novos conhecimentos e experiências profissionais. Vamos colaborar?
+E aí, tudo tranquilo? Meu nome é Leonardo Marinho, sou desenvolvedor e entusiasta do mundo tech! Atualmente estou cursando Sistemas para Internet, com foco principalmente em engenharia e análise de dados. Tenho interesse adicional por desenvolvimento backend e estou sempre buscando novos conhecimentos e experiências profissionais. Vamos colaborar?
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devleomarinho&show_icons=true&theme=default#gh-light-mode-only">  
