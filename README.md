@@ -1,6 +1,6 @@
-## Olá, seja bem-vindo(a) ao meu GitHub!
+## Hello, welcome to my GitHub profile!
 
-E aí, tudo tranquilo? Meu nome é Leonardo Marinho, sou desenvolvedor e entusiasta do mundo tech! Atualmente estou cursando Sistemas para Internet, com foco principalmente em engenharia e análise de dados. Tenho interesse adicional por desenvolvimento backend e estou sempre buscando novos conhecimentos e experiências profissionais. Vamos colaborar?
+Hey, how´s everything going? I'm a data engineer and analytics engineer, focused on developing smart data solutions and efficient, scalable ETL/ELT pipelines. Let's collaborate?
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devleomarinho&show_icons=true&theme=default#gh-light-mode-only">  
