@@ -1,6 +1,6 @@
 ## Hello, welcome to my GitHub profile!
 
-Hey, how´s everything going? I'm a data engineer and analytics engineer, focused on developing smart data solutions and efficient, scalable ETL/ELT pipelines. Let's collaborate?
+Hey, how´s everything going? I'm a data engineer and analyst, focused on developing smart data solutions and efficient, scalable ETL/ELT pipelines. Let's collaborate?
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devleomarinho&show_icons=true&theme=default#gh-light-mode-only">  
